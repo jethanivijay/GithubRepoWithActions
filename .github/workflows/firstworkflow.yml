@@ -6,7 +6,7 @@ name: first workflow to be run
 on:
   push:
     branches:
-      - main
+      - master
     paths:
     - firstworkflow.md 
 
