@@ -10,9 +10,9 @@
   "scripts": {
     "build": "npx webpack --config ./src/webpack.config.js --mode production",
     "dev": "npx webpack --config ./src/webpack.config.js --mode development --watch",
-    "test": "npx standard --fix && npx jest"
+    "test": "npx standard && npx jest"
   },
-  "author": "jethanivijay",
+  "author": "githubtraining",
   "license": "MIT",
   "standard": {
     "env": [
