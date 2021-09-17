@@ -3,7 +3,7 @@ name: Second Workflow now with Ubuntu and Windows
 on:
   push:
     branches:
-      - main
+      - master
     paths:
     - secondworkflow.md 
 
